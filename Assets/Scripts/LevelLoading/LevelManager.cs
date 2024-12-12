@@ -22,7 +22,7 @@ namespace ARTEX.Rogue.LevelManagement
 
         public static void LoadLevel(string levelName)
         {
-            TargetLevelDescription = LifeCount <= 0 ? "Вы проиграли! Запуск сначала.." : "Загрузка уровня...";
+            TargetLevelDescription = LifeCount <= 0 ? "Kamu Kalah! Mulai dari awal..." : "Memuat...";
             TargetLevelName = levelName;
             SceneManager.LoadScene(LoadingLevel);
         }

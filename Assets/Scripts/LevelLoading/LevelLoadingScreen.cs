@@ -28,7 +28,7 @@ namespace ARTEX.Rogue.LevelManagement
 
         private IEnumerator LoadRoutine()
         {
-            lifeCountText.text = $"Осталось жизней: {LevelManager.LifeCount}";
+            lifeCountText.text = $"Kesempatan tersisa: {LevelManager.LifeCount}";
             descriptionText.text = LevelManager.TargetLevelDescription;
             yield return new WaitForSeconds(1.5f);
             sceneLoading = SceneManager.LoadSceneAsync(LevelManager.TargetLevelName);
