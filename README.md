@@ -1,14 +1,15 @@
 # Kelompok-05 (XI PPLG-1)
 ## Anggota Kelompok-05:
-#### Yahya Ayyas Syauqoni (Ketua).
-#### Muhammad Fathar Ikhsan.
-#### Arsyl Fauzan.
-#### Rafi Hendrian Saputra.
-#### Adityo Insan Pratama.
-#### Nikita Dewi Yusuf.
-#### Syadina Khaura Maulina.
+#### - Yahya Ayyas Syauqoni (Ketua).
+#### - Muhammad Fathar Ikhsan.
+#### - Arsyl Fauzan.
+#### - Rafi Hendrian Saputra.
+#### - Adityo Insan Pratama.
+#### - Nikita Dewi Yusuf.
+#### - Syadina Khaura Maulina.
 #
-## Game Overview and Objectives
+
+# Game Overview and Objectives
 ### Game Title: “The Wandering Knight”.
 ### Game Genre: “Singleplayer, 2D Roguelike Top-Down Bullet Hell Shooter”.
 ### Target Audience: “Everyone 10+ (ESRB)”.
