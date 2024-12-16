@@ -21844,8 +21844,8 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: -929301359
-  m_SortingOrder: 3
+  m_SortingLayerID: 1148617375
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!224 &1580716800
 RectTransform:

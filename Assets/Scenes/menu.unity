@@ -407,7 +407,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '"The Wandering Knight"'
+  m_text: '"The Wandering Soldier"'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -688,7 +688,7 @@ PrefabInstance:
     - target: {fileID: 806600923696033809, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
       propertyPath: m_text
-      value: Very Low
+      value: Low
       objectReference: {fileID: 0}
     - target: {fileID: 806600923746909727, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
@@ -802,18 +802,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 806600924176388382, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
-      propertyPath: m_Options.m_Options.Array.data[0].m_Text
-      value: Very Low
+      propertyPath: m_Options.m_Options.Array.size
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 806600924176388382, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
-      propertyPath: m_Options.m_Options.Array.data[1].m_Text
+      propertyPath: m_Options.m_Options.Array.data[0].m_Text
       value: Low
       objectReference: {fileID: 0}
     - target: {fileID: 806600924176388382, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
-      propertyPath: m_Options.m_Options.Array.data[2].m_Text
+      propertyPath: m_Options.m_Options.Array.data[1].m_Text
       value: Medium
+      objectReference: {fileID: 0}
+    - target: {fileID: 806600924176388382, guid: faf3900b72051f146a4b96f4bbb0bf57,
+        type: 3}
+      propertyPath: m_Options.m_Options.Array.data[2].m_Text
+      value: High
       objectReference: {fileID: 0}
     - target: {fileID: 806600924176388382, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
@@ -1086,7 +1091,7 @@ PrefabInstance:
     - target: {fileID: 806600924661148991, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 806600924685584397, guid: faf3900b72051f146a4b96f4bbb0bf57,
         type: 3}
