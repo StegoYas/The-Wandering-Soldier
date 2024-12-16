@@ -10,7 +10,7 @@
 #
 
 # Game Overview and Objectives
-### Game Title: “The Wandering Knight”.
+### Game Title: “The Wandering Soldier”.
 ### Game Genre: “Singleplayer, 2D Roguelike Top-Down Bullet Hell Shooter”.
 ### Target Audience: “Everyone 10+ (ESRB)”.
 ### Platform: “Laptop/Pc”.
