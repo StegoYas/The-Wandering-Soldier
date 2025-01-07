@@ -493,6 +493,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shotgun
       objectReference: {fileID: 0}
+    - target: {fileID: 6794052923595838450, guid: a927c7c2fdd507048a93828962ca926d,
+        type: 3}
+      propertyPath: damage
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6794052923595838450, guid: a927c7c2fdd507048a93828962ca926d,
+        type: 3}
+      propertyPath: cooldownTime
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a927c7c2fdd507048a93828962ca926d, type: 3}
 --- !u!4 &7788049786876672265 stripped
@@ -508,6 +518,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4315201848309763269}
     m_Modifications:
+    - target: {fileID: 6338283433318940904, guid: b01548ad646fc724488012f0c8f03985,
+        type: 3}
+      propertyPath: MaxDistance
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338283433318940905, guid: b01548ad646fc724488012f0c8f03985,
+        type: 3}
+      propertyPath: damage
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338283433318940905, guid: b01548ad646fc724488012f0c8f03985,
+        type: 3}
+      propertyPath: cooldownTime
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 6338283433318940907, guid: b01548ad646fc724488012f0c8f03985,
         type: 3}
       propertyPath: m_RootOrder
